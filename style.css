@@ -3,6 +3,7 @@ body {
     background-image: url(assets/batman-por-ai.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
 img {
