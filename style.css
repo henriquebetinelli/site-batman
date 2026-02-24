@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    background-image: url(assets/batman-por-ai.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img {
+    height: 400px;
+    border-radius: 5px;
+}
+footer p {
+    color: rgb(201, 178, 104);
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(201, 178, 104);
+    font-size: xx-large;
+    padding: 30px;
+}
