@@ -3,6 +3,7 @@ body {
     background-image: url(assets/batman-na-cidade.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
@@ -20,7 +21,7 @@ footer p {
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(201, 178, 104);
-    font-size: xx-large;
+    font-size: 50px;
     padding: 30px;
 }
 header {
@@ -39,4 +40,20 @@ article {
     width: 1000px;
     padding: 50px;
     margin: 15px;
+}
+button {
+    background-color: rgb(199, 198, 198);
+    border: none;
+    border-radius: 8px;
+    width: 130px;
+    height: 35px;
+    margin: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div-texto {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
